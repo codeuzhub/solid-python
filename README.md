@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yakhyo.github.io/solid-python/">Documentation</a> · <a href="https://yakhyo.github.io/solid-python/uz/">O'zbekcha</a>
+  <a href="https://codeuzhub.github.io/solid-python/">Documentation</a> · <a href="https://codeuzhub.github.io/solid-python/uz/">O'zbekcha</a>
 </p>
 
 ## Quick start
